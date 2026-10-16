@@ -1,1 +1,1 @@
-web: python main.py
+3.11.9
